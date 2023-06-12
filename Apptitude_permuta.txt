@@ -1,4 +1,4 @@
-Here are the answers to the permutation and combination questions:
+
 
 1. The two particular delegates must always sit together, so we can treat them as a single entity. Therefore, we have 24 entities to arrange, which can be done in 23! ways. The answer is A. 23!.
 
